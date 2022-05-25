@@ -1,0 +1,7 @@
+channels:
+  - conda-forge
+dependencies:
+  - aiida-core==2.0.1
+  - python~=3.8
+  - pip:
+    - aiida-grouppathx==0.2.0
